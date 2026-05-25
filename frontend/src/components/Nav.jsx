@@ -566,11 +566,6 @@ function Nav() {
           <div className="flex items-center gap-2">
             {[
               {
-                icon: HiOutlineUserGroup,
-                label: 'Creators',
-                path: '/contributors',
-              },
-              {
                 icon: RiContactsLine,
                 label: 'Contact',
                 path: '/contact',
